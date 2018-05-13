@@ -1,0 +1,29 @@
+{
+  "name": "my-app",
+  "version": "0.1.0",
+  "homepage": "https://JeffJiang42.github.io",
+  "private": true,
+  "dependencies": {
+    "ajv": "^6.5.0",
+    "bootstrap": "^4.0.0",
+    "gh-pages": "^1.1.0",
+    "jquery": "^3.3.1",
+    "marked": "^0.3.19",
+    "npm": "^6.0.1",
+    "react": "^16.3.2",
+    "react-dom": "^16.3.2",
+    "react-markdown": "^3.3.2",
+    "react-router": "^4.2.0",
+    "react-router-dom": "^4.2.2",
+    "react-scripts": "1.1.4",
+    "reactstrap": "^5.0.0-beta"
+  },
+  "scripts": {
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -b master -d build",
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}
