@@ -64,7 +64,7 @@ class About extends Component {
               notes <i>The Rising Sea</i> for some background in cateogry theory
               and sheaves. Here is a list of a few of the books I'm interested in
               working through this summer (though I'll probably only get around to two
-              or three)</p>
+              or three).</p>
             <ul>
               <li><i>Mathematical Methods of Classical Mechanics by V.I. Arnold</i></li>
               <li><i>Complex Geometry and Hodge Theory by Claire Voisin</i></li>
