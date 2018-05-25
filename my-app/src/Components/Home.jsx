@@ -58,7 +58,7 @@ class Home extends Component {
             a home for my blog, which will mostly consist of ramblings about
             whatever math I'm reading at the time. At any given time you can
             find me haunting the halls of the GDC or RLM tackling the
-            masochistic workload I thought was reasoable the semester before
+            masochistic workload I thought was reasonable the semester before
             -- usually to the tune of Taylor Swift or whatever pop music I find
             myself listening to on repeat while I work.</p>
           <img alt='GDC' src={gdc} style={imageStyle3} />

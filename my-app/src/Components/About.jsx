@@ -58,8 +58,8 @@ class About extends Component {
         </div>
         <div className='activities' style={bioStyle} >
           <h1>What am I up to?</h1>
-            <p>This summer, I'm interning at Amazon Lab126 in Sunnyvale. That
-              being said, I definitely plan to do some math reading this summer.
+            <p>This summer, I'm interning at Amazon Lab126 in Sunnyvale (though views
+              expressed here are mine alone). That being said, I definitely plan to do some math reading this summer.
               As of now, I'm working through the first two chapters of Ravi Vakil's
               notes <i>The Rising Sea</i> for some background in cateogry theory
               and sheaves. Here is a list of a few of the books I'm interested in
