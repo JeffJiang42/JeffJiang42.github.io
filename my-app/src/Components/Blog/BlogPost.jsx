@@ -7,8 +7,8 @@ const months = ['January', 'February', 'March', 'April', 'May',
 
 var postStyle = {
   'paddingTop': '50px',
-  'paddingRight': '150px',
-  'paddingLeft': '150px',
+  'paddingRight': '250px',
+  'paddingLeft': '250px',
   'textAlign': 'left'
 };
 

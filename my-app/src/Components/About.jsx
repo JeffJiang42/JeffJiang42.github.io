@@ -31,7 +31,7 @@ var linksStyle = {
 class About extends Component {
   render() {
     var image = require('../Images/me.jpg');
-    var resume = require('../Files/Resume.pdf');
+    var resume = require('../Files/cv.pdf');
     return (
       <div>
         <div style={wrapperStyle} >
@@ -47,24 +47,23 @@ class About extends Component {
           learning related, such as computer vision, though I hope to dabble in graphics
           and physical simulation in the near future. In the little free time I have,
           I like to read (more math of course) and I have been teaching myself guitar,
-          which I have been attempting to play since November 2017.</p>
+          which I have been attempting to play since November 2017. In the
+          summer of 2018, I intered at Amazon Lab126 for the Alexa weather team.</p>
         </div>
         <div className='links' style={linksStyle} >
           <Row>
             <MinimalCard image='GitHubLogo.png' link='https://github.com/JeffJiang42' name='GitHub' desc='My GitHub'/>
-            <MinimalCard image='ResumeLogo.png' link={resume} name='Resume' desc='My Resume'/>
+            <MinimalCard image='ResumeLogo.png' link={resume} name='CV' desc='My CV'/>
             <MinimalCard image='GmailLogo.png' link='mailto:jefjiang@gmail.com' name='Email' desc='Contact Me!'/>
           </Row>
         </div>
         <div className='activities' style={bioStyle} >
           <h1>What am I up to?</h1>
-            <p>This summer, I'm interning at Amazon Lab126 in Sunnyvale (though views
-              expressed here are mine alone). That being said, I definitely plan to do some math reading this summer.
-              As of now, I'm working through the first two chapters of Ravi Vakil's
-              notes <i>The Rising Sea</i> for some background in cateogry theory
-              and sheaves. Here is a list of a few of the books I'm interested in
-              working through this summer (though I'll probably only get around to two
-              or three).</p>
+            <p>This semester has mostly been preparing applications to grad school,
+            as well as sinking a large portion of my time into math, which consists
+            of the graduate algebraic topology course with Professor Gordon and
+            a conference course in the spin group and Clifford algebras with Professor
+            Freed. Some books/notes that are on my backlog of things to work on:</p>
             <ul>
               <li><i>Mathematical Methods of Classical Mechanics by V.I. Arnold</i></li>
               <li><i>Complex Geometry and Hodge Theory by Claire Voisin</i></li>
