@@ -142,31 +142,37 @@
       "title": "A Very Long Lapse",
       "date": "2018-09-05",
       "file": "2018-09-05-fall-1.md",
-      "type": "1"
+      "type": "2"
     } ,
     {
       "title": "Long Lapse 2: Electric Boogaloo",
       "date": "2018-11-01",
       "file": "2018-11-01-fall-2.md",
-      "type": "1"
+      "type": "2"
     } ,
     {
       "title": "Deadlines Looming",
       "date": "2018-11-11",
       "file": "2018-11-11-fall-3.md",
-      "type": "1"
+      "type": "2"
     } ,
     {
       "title": "A Suboptimal Break",
       "date": "2018-11-25",
       "file": "2018-11-25-fall-4.md",
-      "type": "1"
+      "type": "2"
     } ,
     {
       "title": "Wrapping Up",
       "date": "2018-11-26",
       "file": "2018-11-26-fall-5.md",
-      "type": "1"
+      "type": "2"
+    } ,
+    {
+      "title": "The Home Stretch",
+      "date": "2018-12-9",
+      "file": "2018-12-9-fall-6.md",
+      "type": "2"
     }
   ]
 }

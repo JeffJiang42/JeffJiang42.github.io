@@ -15,7 +15,7 @@ class Projects extends Component {
         <h1 style={{'textAlign': 'center'}}>Projects + Notes</h1>
         <br />
         <p style={{'textAlign': 'left'}}>These are some projects and notes that
-          I've compiled over the years, some of them more complete than
+          I've compiled over the years, some of them more complete and correct than
           others.</p>
         <ul style={{'textAlign': 'left'}}>
           <li>I took a quantum computing course with Professor Scott Aaronson in
@@ -24,7 +24,7 @@ class Projects extends Component {
             <li><a href={quantumNotes}>Quantum computing notes</a></li>
           </ul>
           <li>I took the graduate differential topology course with Professor
-            Robert Gompf in Sprint 2017 and have also kept notes from that course</li>
+            Robert Gompf in Spring 2017 and have also kept notes from that course</li>
           <ul>
             <li><a href={diffTopNotes}>Differential topology notes</a></li>
           </ul>

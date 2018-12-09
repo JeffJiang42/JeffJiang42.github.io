@@ -4,7 +4,7 @@ import MinimalCard from './MinimalCard.jsx';
 
 var wrapperStyle = {
   'paddingLeft': '30px',
-  'paddingTop': '30px'
+  'paddingTop': '30px',
 };
 
 var imageStyle = {
@@ -20,6 +20,14 @@ var bioStyle = {
   'paddingTop': '30px',
   'paddingRight': '150px',
   'paddingLeft': '700px',
+  'textAlign': 'left'
+};
+
+var activityStyle = {
+  'paddingTop': '30px',
+  'paddingRight': '150px',
+  'paddingLeft': '700px',
+  'paddingBottom': '50px',
   'textAlign': 'left'
 };
 
@@ -39,16 +47,16 @@ class About extends Component {
         </div>
         <div className='bio' style={bioStyle} >
         <h1>About me</h1>
-        <p>I'm a incoming senior at the University of Texas at Austin, where I
+        <p>I'm a senior at the University of Texas at Austin, where I
           am majoring in Pure Mathematics and Computer Science. My mathematical
-          interests lie in geometry, with specific topics of interest being
+          interests lie in geometry and topology, with specific topics of interest being
           Riemannian, symplectic, and complex geometry. On the computer science
           front, the topics that have drawn the most interest have been machine
           learning related, such as computer vision, though I hope to dabble in graphics
           and physical simulation in the near future. In the little free time I have,
           I like to read (more math of course) and I have been teaching myself guitar,
           which I have been attempting to play since November 2017. In the
-          summer of 2018, I intered at Amazon Lab126 for the Alexa weather team.</p>
+          summer of 2018, I interned at Amazon Lab126 for the Alexa weather team.</p>
         </div>
         <div className='links' style={linksStyle} >
           <Row>
@@ -57,17 +65,23 @@ class About extends Component {
             <MinimalCard image='GmailLogo.png' link='mailto:jefjiang@gmail.com' name='Email' desc='Contact Me!'/>
           </Row>
         </div>
-        <div className='activities' style={bioStyle} >
+        <div className='activities' style={activityStyle} >
           <h1>What am I up to?</h1>
             <p>This semester has mostly been preparing applications to grad school,
             as well as sinking a large portion of my time into math, which consists
             of the graduate algebraic topology course with Professor Gordon and
             a conference course in the spin group and Clifford algebras with Professor
-            Freed. Some books/notes that are on my backlog of things to work on:</p>
+            Freed. I am constantly learning of new interesting things in mathematics,
+            and consequently, the list of things I want to learn grows exponentially with time.
+            Some books/notes that are on my ever-growing backlog of things to work on include </p>
             <ul>
-              <li><i>Mathematical Methods of Classical Mechanics by V.I. Arnold</i></li>
-              <li><i>Complex Geometry and Hodge Theory by Claire Voisin</i></li>
+              <li><i>Mathematical Methods of Classical Mechanics</i> by V.I. Arnold</li>
+              <li><i>Differential Forms in Algebraic Topology</i> by Bott and Tu</li>
+              <li><i>Complex Geometry and Hodge Theory</i> by Claire Voisin</li>
               <li><i>Representation Theory: A First Course</i> by Fulton and Harris</li>
+              <li><i>Characteristic Classes</i> by John Milnor ad James Stasheff</li>
+              <li><i>Morse Theory</i> by John Milnor</li>
+              <li><i>Foundations of Differential Geometry</i> (volumes 1 and 2) by Kobayashi and Nomizu</li>
               <li><i>Lie Groups, Lie Algebras and Representations</i> by Brian C. Hall</li>
               <li>Some <a href='https://empg.maths.ed.ac.uk/Activities/Spin/'>notes</a> I found on spin geometry</li>
             </ul>
