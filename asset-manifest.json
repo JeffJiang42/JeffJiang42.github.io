@@ -1,7 +1,7 @@
 {
   "main.css": "/static/css/main.fbff9bda.chunk.css",
-  "main.js": "/static/js/main.93168101.chunk.js",
-  "main.js.map": "/static/js/main.93168101.chunk.js.map",
+  "main.js": "/static/js/main.94aa7d58.chunk.js",
+  "main.js.map": "/static/js/main.94aa7d58.chunk.js.map",
   "static/css/1.f6070496.chunk.css": "/static/css/1.f6070496.chunk.css",
   "static/js/1.24dca141.chunk.js": "/static/js/1.24dca141.chunk.js",
   "static/js/1.24dca141.chunk.js.map": "/static/js/1.24dca141.chunk.js.map",
@@ -43,10 +43,10 @@
   "static/media/2018-12-16-fall-7.md": "/static/media/2018-12-16-fall-7.11e34097.md",
   "static/media/2018-12-20-fall-8.md": "/static/media/2018-12-20-fall-8.213d2524.md",
   "static/media/2018-12-9-fall-6.md": "/static/media/2018-12-9-fall-6.d6c3061f.md",
-  "static/media/2019-01-01-spring-1.md": "/static/media/2019-01-01-spring-1.99b695af.md",
+  "static/media/2019-01-01-spring-1.md": "/static/media/2019-01-01-spring-1.7daa6652.md",
   "static/css/main.fbff9bda.chunk.css.map": "/static/css/main.fbff9bda.chunk.css.map",
   "static/css/1.f6070496.chunk.css.map": "/static/css/1.f6070496.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.04f74d993c6fce7c0300c65f8d5095c6.js": "/precache-manifest.04f74d993c6fce7c0300c65f8d5095c6.js",
+  "precache-manifest.3eff3b1de68edbb818b285360ba2ccb1.js": "/precache-manifest.3eff3b1de68edbb818b285360ba2ccb1.js",
   "service-worker.js": "/service-worker.js"
 }
