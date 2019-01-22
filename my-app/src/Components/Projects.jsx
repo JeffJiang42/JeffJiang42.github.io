@@ -32,8 +32,8 @@ class Projects extends Component {
             Some of the notes there were compiled in the Summer of 2017, while others
             are from various talks I gave (either to the UT Math Club or for the
             Directed Reading Program). Yet others are notes I'm keeping while working
-            through texts on my own, which are currently in progress (like my notes
-            on <i>The Rising Sea</i>)</li>
+            through texts on my own, or random expository stuff I felt like
+            typing up.</li>
           <ul>
             <li><a href='https://github.com/JeffJiang42/Math-Notes'>Notes repository</a></li>
           </ul>

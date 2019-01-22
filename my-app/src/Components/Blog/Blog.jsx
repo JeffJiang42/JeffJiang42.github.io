@@ -9,7 +9,7 @@ var rowStyle = {
   'paddingTop': '50px'
 };
 
-const colors = ['#B25D71', '#33A1DE', '#EB9247'];
+const colors = ['#B25D71', '#33A1DE', '#EB9247', '#71EEB8'];
 
 class Blog extends Component {
   render() {

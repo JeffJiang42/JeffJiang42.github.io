@@ -27,6 +27,12 @@ var activityStyle = {
   'paddingTop': '30px',
   'paddingRight': '150px',
   'paddingLeft': '700px',
+  'textAlign': 'left'
+};
+
+var conceptsStyle = {
+  'paddingRight': '150px',
+  'paddingLeft': '700px',
   'paddingBottom': '50px',
   'textAlign': 'left'
 };
@@ -67,13 +73,18 @@ class About extends Component {
         </div>
         <div className='activities' style={activityStyle} >
           <h1>What am I up to?</h1>
-            <p>This semester has mostly been preparing applications to grad school,
-            as well as sinking a large portion of my time into math, which consists
-            of the graduate algebraic topology course with Professor Gordon and
-            a conference course in the spin group and Clifford algebras with Professor
-            Freed. I am constantly learning of new interesting things in mathematics,
-            and consequently, the list of things I want to learn grows exponentially with time.
-            Some books/notes that are on my ever-growing backlog of things to work on include </p>
+            <p> This semester, I'm taking a few classes to wrap up my degree
+            requirements. My schedule currently consists of complex analysis,
+            object oriented programming, real analysis 2, and my senior thesis,
+            where I plan to cover Dirac operators with Professor Freed. In addition,
+            I want to try to attend more seminars in my final semester here,
+            and there are some interesting seminars being organized by the graduate
+            students this spring. Finally, there's some anxiety as I wait to hear
+            back from graduate programs. I am constantly learning of new
+            interesting things in mathematics, and consequently, the list of
+            things I want to learn grows exponentially with time. Some
+            books/notes that are on my ever-growing backlog of things to work
+            on include </p>
             <ul>
               <li><i>Mathematical Methods of Classical Mechanics</i> by V.I. Arnold</li>
               <li><i>Differential Forms in Algebraic Topology</i> by Bott and Tu</li>
@@ -84,7 +95,27 @@ class About extends Component {
               <li><i>Foundations of Differential Geometry</i> (volumes 1 and 2) by Kobayashi and Nomizu</li>
               <li><i>Lie Groups, Lie Algebras and Representations</i> by Brian C. Hall</li>
               <li>Some <a href='https://empg.maths.ed.ac.uk/Activities/Spin/'>notes</a> I found on spin geometry</li>
+              <li>Some <a href='https://math.berkeley.edu/~hutching/pub/tn.pdf'>notes</a> I found on the Seiberg-Witten Equations</li>
             </ul>
+        </div>
+        <div className='concepts' style={conceptsStyle}>
+          <h1>Things I'd like to understand better</h1>
+          <p>There's a huge list of things I'd like to learn or become more familiar with.
+          Things listed here could be concepts I'd like to learn, specific examples I'd
+          like to work through, or broad fields I'd like to know more about.</p>
+          <ul>
+            <li>Dirac operators -- Clifford and spinor bundles on manifolds</li>
+            <li>Representations of Lie groups and Lie algebras</li>
+            <li>Banach and Hilbert Spaces</li>
+            <li>Principal Bundles</li>
+            <li>Physics -- Especially its relationship with geometry</li>
+            <li>Sheaves</li>
+            <li>Holonomy -- specifically its use in classifying manifolds</li>
+            <li>Morse Theory</li>
+            <li>TQFTs -- specifically their classification by commutative Frobenius algebras in the 2 dimensional case</li>
+            <li>Characteristic classes</li>
+            <li>Hodge Theory</li>
+          </ul>
         </div>
       </div>
     );

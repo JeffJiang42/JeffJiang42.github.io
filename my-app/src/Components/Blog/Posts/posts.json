@@ -173,6 +173,36 @@
       "date": "2018-12-9",
       "file": "2018-12-9-fall-6.md",
       "type": "2"
+    } ,
+    {
+      "title": "One More Left",
+      "date": "2018-12-16",
+      "file": "2018-12-16-fall-7.md",
+      "type": "2"
+    } ,
+    {
+      "title": "Atom for LaTeX",
+      "date": "2018-12-20",
+      "file": "2018-12-20-fall-8.md",
+      "type": "2"
+    } ,
+    {
+      "title": "Happy New Year!",
+      "date": "2019-01-01",
+      "file": "2019-01-01-spring-1.md",
+      "type": "3"
+    } ,
+    {
+      "title": "Small Update",
+      "date": "2019-01-09",
+      "file": "2019-01-09-spring-2.md",
+      "type": "3"
+    } ,
+    {
+      "title": "Happy Birthday Dan!",
+      "date": "2019-01-21",
+      "file": "2019-01-21-spring-3.md",
+      "type": "3"
     }
   ]
 }
