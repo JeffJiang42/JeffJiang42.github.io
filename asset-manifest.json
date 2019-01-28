@@ -1,10 +1,10 @@
 {
   "main.css": "/static/css/main.fbff9bda.chunk.css",
-  "main.js": "/static/js/main.a761755f.chunk.js",
-  "main.js.map": "/static/js/main.a761755f.chunk.js.map",
-  "static/css/1.0c94dd35.chunk.css": "/static/css/1.0c94dd35.chunk.css",
-  "static/js/1.efc01f92.chunk.js": "/static/js/1.efc01f92.chunk.js",
-  "static/js/1.efc01f92.chunk.js.map": "/static/js/1.efc01f92.chunk.js.map",
+  "main.js": "/static/js/main.30bf16f9.chunk.js",
+  "main.js.map": "/static/js/main.30bf16f9.chunk.js.map",
+  "static/css/1.d0c943cd.chunk.css": "/static/css/1.d0c943cd.chunk.css",
+  "static/js/1.d9be2f0b.chunk.js": "/static/js/1.d9be2f0b.chunk.js",
+  "static/js/1.d9be2f0b.chunk.js.map": "/static/js/1.d9be2f0b.chunk.js.map",
   "runtime~main.js": "/static/js/runtime~main.229c360f.js",
   "runtime~main.js.map": "/static/js/runtime~main.229c360f.js.map",
   "static/media/2018-07-05-summer-7.md": "/static/media/2018-07-05-summer-7.04eb5f94.md",
@@ -46,9 +46,10 @@
   "static/media/2019-01-01-spring-1.md": "/static/media/2019-01-01-spring-1.61a4e579.md",
   "static/media/2019-01-09-spring-2.md": "/static/media/2019-01-09-spring-2.566cc242.md",
   "static/media/2019-01-21-spring-3.md": "/static/media/2019-01-21-spring-3.a2240381.md",
-  "static/css/1.0c94dd35.chunk.css.map": "/static/css/1.0c94dd35.chunk.css.map",
+  "static/media/2019-01-27-spring-4.md": "/static/media/2019-01-27-spring-4.1276c887.md",
   "static/css/main.fbff9bda.chunk.css.map": "/static/css/main.fbff9bda.chunk.css.map",
+  "static/css/1.d0c943cd.chunk.css.map": "/static/css/1.d0c943cd.chunk.css.map",
   "index.html": "/index.html",
-  "precache-manifest.481e1be30597698e5cf0e843c2c0ceae.js": "/precache-manifest.481e1be30597698e5cf0e843c2c0ceae.js",
+  "precache-manifest.d4da729d7067c7a691ce0f42f9d5369c.js": "/precache-manifest.d4da729d7067c7a691ce0f42f9d5369c.js",
   "service-worker.js": "/service-worker.js"
 }
