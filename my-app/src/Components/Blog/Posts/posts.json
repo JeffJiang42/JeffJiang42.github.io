@@ -203,6 +203,30 @@
       "date": "2019-01-21",
       "file": "2019-01-21-spring-3.md",
       "type": "3"
+    } ,
+    {
+      "title": "The Last First Week",
+      "date": "2019-01-27",
+      "file": "2019-01-27-spring-4.md",
+      "type": "3"
+    } ,
+    {
+      "title": "Getting in the Groove",
+      "date": "2019-02-05",
+      "file": "2019-02-05-spring-5.md",
+      "type": "3"
+    } ,
+    {
+      "title": "Some Interesting Problems",
+      "date": "2019-02-17",
+      "file": "2019-02-17-spring-6.md",
+      "type": "3"
+    } ,
+    {
+      "title": "More Things I've Learned",
+      "date": "2019-02-26",
+      "file": "2019-02-26-spring-7.md",
+      "type": "3"
     }
   ]
 }

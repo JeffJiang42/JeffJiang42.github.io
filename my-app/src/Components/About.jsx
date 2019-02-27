@@ -75,12 +75,17 @@ class About extends Component {
           <h1>What am I up to?</h1>
             <p> This semester, I'm taking a few classes to wrap up my degree
             requirements. My schedule currently consists of complex analysis,
-            object oriented programming, real analysis 2, and my senior thesis,
+            object oriented programming, gauge theory, and my senior thesis,
             where I plan to cover Dirac operators with Professor Freed. In addition,
             I want to try to attend more seminars in my final semester here,
             and there are some interesting seminars being organized by the graduate
-            students this spring. Finally, there's some anxiety as I wait to hear
-            back from graduate programs. I am constantly learning of new
+            students this spring. I am also giving a series of lectures for the math
+            club, where I am teaching the basics of differential geometry. Notes
+            that I have typed up can be found <a href="https://github.com/JeffJiang42/Math-Notes/tree/master/DiffGeoLectureSeries">here</a>,
+            and I also plan on uploading my handwritten lecture notes there. Finally,
+            there's some anxiety as I wait to hear back from graduate programs.
+            </p>
+            <p> I am constantly learning of new
             interesting things in mathematics, and consequently, the list of
             things I want to learn grows exponentially with time. Some
             books/notes that are on my ever-growing backlog of things to work
@@ -104,12 +109,12 @@ class About extends Component {
           Things listed here could be concepts I'd like to learn, specific examples I'd
           like to work through, or broad fields I'd like to know more about.</p>
           <ul>
-            <li>Dirac operators -- Clifford and spinor bundles on manifolds</li>
+            <li>Dirac operators -- Clifford and Spinor bundles on manifolds</li>
             <li>Representations of Lie groups and Lie algebras</li>
             <li>Banach and Hilbert Spaces</li>
             <li>Principal Bundles</li>
             <li>Physics -- Especially its relationship with geometry</li>
-            <li>Sheaves</li>
+            <li>Sheaves and Sheaf Cohomology</li>
             <li>Holonomy -- specifically its use in classifying manifolds</li>
             <li>Morse Theory</li>
             <li>TQFTs -- specifically their classification by commutative Frobenius algebras in the 2 dimensional case</li>

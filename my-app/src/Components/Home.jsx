@@ -43,8 +43,8 @@ var bioStyle = {
 
 class Home extends Component {
   render() {
-    var image = require('../Images/me2.jpg');
-    var gdc = require('../Images/gdc.jpg');
+    var image = require('../Images/me3.jpg');
+    var image2 = require('../Images/me4.jpg');
     var rlm = require('../Images/rlm.jpg')
 
     return (
@@ -61,7 +61,7 @@ class Home extends Component {
             masochistic workload I thought was reasonable the semester before
             -- usually to the tune of Taylor Swift or whatever pop music I find
             myself listening to on repeat while I work.</p>
-          <img alt='GDC' src={gdc} style={imageStyle3} />
+          <img alt='Me again' src={image2} style={imageStyle3} />
           <img alt='RLM' src={rlm} style={imageStyle2} />
         </div>
       </div>
