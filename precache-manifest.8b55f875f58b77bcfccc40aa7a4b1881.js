@@ -4,20 +4,20 @@ self.__precacheManifest = [
     "url": "/static/media/2018-04-14-week-12.7f0a3cdd.md"
   },
   {
-    "revision": "49e82b78e0b8fdfdd32d",
+    "revision": "ca7298c8420d22f2612e",
     "url": "/static/css/main.b948d220.chunk.css"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
-    "url": "/static/js/runtime~main.fdfcfda2.js"
+    "url": "/static/js/runtime~main.c5541365.js"
   },
   {
     "revision": "446b0d479563396c7608bee8277379b8",
     "url": "/static/media/2019-02-26-spring-7.446b0d47.md"
   },
   {
-    "revision": "608ed1ab2b8b66164e1b",
-    "url": "/static/js/2.608ed1ab.chunk.js"
+    "revision": "b5fe60b906ea3e3877d3",
+    "url": "/static/js/2.0cb35411.chunk.js"
   },
   {
     "revision": "78f9b1b4144129f8a5e417595927f524",
@@ -56,8 +56,8 @@ self.__precacheManifest = [
     "url": "/static/media/QuantumComputing.4718ec65.pdf"
   },
   {
-    "revision": "58a705dd7a33f704f201bbacf6c13c7b",
-    "url": "/static/media/M382D.58a705dd.pdf"
+    "revision": "fbb3ce8e5b664a1f21be097dd5c1511e",
+    "url": "/static/media/M382D.fbb3ce8e.pdf"
   },
   {
     "revision": "8e1b4c5959711f74bb1f9ded68880b23",
@@ -100,8 +100,8 @@ self.__precacheManifest = [
     "url": "/static/media/2018-04-06-week-11.d6876aae.md"
   },
   {
-    "revision": "49e82b78e0b8fdfdd32d",
-    "url": "/static/js/main.49e82b78.chunk.js"
+    "revision": "ca7298c8420d22f2612e",
+    "url": "/static/js/main.2bf7acce.chunk.js"
   },
   {
     "revision": "b5db5877d014923f57781a9d6868b9da",
@@ -196,11 +196,11 @@ self.__precacheManifest = [
     "url": "/static/media/2019-02-17-spring-6.0451a6ce.md"
   },
   {
-    "revision": "608ed1ab2b8b66164e1b",
+    "revision": "b5fe60b906ea3e3877d3",
     "url": "/static/css/2.e6f73149.chunk.css"
   },
   {
-    "revision": "026699f924f6d0edb2f24c43595af427",
+    "revision": "99087a9e1fb4a2807d32b5da5c0d1be6",
     "url": "/index.html"
   }
 ];
