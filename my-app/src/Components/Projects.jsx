@@ -18,6 +18,11 @@ class Projects extends Component {
           I've compiled over the years, some of them more complete and correct than
           others.</p>
         <ul style={{'textAlign': 'left'}}>
+          <li>
+            I'm currently writing my senior thesis under Professor Dan Freed's
+            supervision. You can find the work in progress, as well as notes
+            I'm keeping along the way in <a href={'https://github.com/JeffJiang42/Undergrad-Thesis'}>this repository</a>.
+          </li>
           <li>I took a quantum computing course with Professor Scott Aaronson in
             Spring 2017 and compiled some of notes along the way.</li>
           <ul>
