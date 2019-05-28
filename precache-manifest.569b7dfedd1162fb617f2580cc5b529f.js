@@ -1,10 +1,10 @@
 self.__precacheManifest = [
   {
-    "revision": "7f0a3cddf85b0f178890298f50bcd3e2",
-    "url": "/static/media/2018-04-14-week-12.7f0a3cdd.md"
+    "revision": "e55560ec5b438b1073ecb8ca6eadaaf1",
+    "url": "/static/media/2018-03-31-week-10.e55560ec.md"
   },
   {
-    "revision": "7b77443919f8457bb326",
+    "revision": "8c1d33506479c2158ecd",
     "url": "/static/css/main.b948d220.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = [
     "url": "/static/media/2019-02-26-spring-7.446b0d47.md"
   },
   {
-    "revision": "667109b4324c8b4b563e",
-    "url": "/static/js/2.d55b64a3.chunk.js"
+    "revision": "f34f6fa980cb0e2d4298",
+    "url": "/static/js/2.5a2c8889.chunk.js"
   },
   {
     "revision": "655920f3e5bf4f823d3c66d5b3c233a1",
@@ -34,6 +34,10 @@ self.__precacheManifest = [
   {
     "revision": "dea8990e2e4fe4df757779b7553df0da",
     "url": "/static/media/rlm.dea8990e.jpg"
+  },
+  {
+    "revision": "c62cd58aa4ad34713f5231ea541677b1",
+    "url": "/static/media/UndergradThesis.c62cd58a.pdf"
   },
   {
     "revision": "a9e177133f0b8b7dd316c414ae717b63",
@@ -62,6 +66,14 @@ self.__precacheManifest = [
   {
     "revision": "fbb3ce8e5b664a1f21be097dd5c1511e",
     "url": "/static/media/M382D.fbb3ce8e.pdf"
+  },
+  {
+    "revision": "01fe8f3803f56784fd8c82d7f839ed25",
+    "url": "/static/media/PrincipalBundles.01fe8f38.pdf"
+  },
+  {
+    "revision": "fe72cdd5f13f264f16049ded8e499cf6",
+    "url": "/static/media/CliffordAlgebras.fe72cdd5.pdf"
   },
   {
     "revision": "8e1b4c5959711f74bb1f9ded68880b23",
@@ -96,16 +108,16 @@ self.__precacheManifest = [
     "url": "/static/media/2018-03-24-week-9.c9c48902.md"
   },
   {
-    "revision": "e55560ec5b438b1073ecb8ca6eadaaf1",
-    "url": "/static/media/2018-03-31-week-10.e55560ec.md"
+    "revision": "8c1d33506479c2158ecd",
+    "url": "/static/js/main.0544aa09.chunk.js"
   },
   {
     "revision": "d6876aae368e503960bc2452dce88a6f",
     "url": "/static/media/2018-04-06-week-11.d6876aae.md"
   },
   {
-    "revision": "7b77443919f8457bb326",
-    "url": "/static/js/main.2913412a.chunk.js"
+    "revision": "7f0a3cddf85b0f178890298f50bcd3e2",
+    "url": "/static/media/2018-04-14-week-12.7f0a3cdd.md"
   },
   {
     "revision": "b5db5877d014923f57781a9d6868b9da",
@@ -200,11 +212,11 @@ self.__precacheManifest = [
     "url": "/static/media/2019-02-17-spring-6.0451a6ce.md"
   },
   {
-    "revision": "667109b4324c8b4b563e",
+    "revision": "f34f6fa980cb0e2d4298",
     "url": "/static/css/2.e6f73149.chunk.css"
   },
   {
-    "revision": "7ce30665a81461ca2ef26f71ea5ac8fd",
+    "revision": "c9cef46c126f39cb92d05f71f796efca",
     "url": "/index.html"
   }
 ];
