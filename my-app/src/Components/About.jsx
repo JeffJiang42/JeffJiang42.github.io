@@ -17,8 +17,8 @@ var imageStyle1 = {
 };
 
 var imageStyle2 = {
-  'height': '35%',
-  'width': '35%',
+  'height': '40%',
+  'width': '40%',
   'float': 'left',
   'borderRadius': '20%',
   'border': '5px solid #ddd',
@@ -42,7 +42,7 @@ var activityStyle = {
 var conceptsStyle = {
   'paddingRight': '150px',
   'paddingLeft': '700px',
-  'paddingBottom': '50px',
+  'paddingBottom': '200px',
   'textAlign': 'left'
 };
 
@@ -55,7 +55,6 @@ class About extends Component {
   render() {
     var image1 = require('../Images/me3.jpg');
     var image2 = require('../Images/me4.jpg');
-    var image3 = require('../Images/Me_Uhlenbeck.png')
     var resume = require('../Files/cv.pdf');
     var undergrad_thesis = require('../Files/UndergradThesis.pdf')
     return (
@@ -113,7 +112,7 @@ class About extends Component {
             </ul>
         </div>
         <div style={wrapperStyle} >
-        <img alt='Me Again' src={image3} style={imageStyle1} />
+        <img alt='Me Again' src={image2} style={imageStyle2} />
         </div>
         <div className='concepts' style={conceptsStyle}>
           <h1>Things I'd like to understand better</h1>
