@@ -4,7 +4,7 @@ self.__precacheManifest = [
     "url": "/static/media/2018-04-06-week-11.d6876aae.md"
   },
   {
-    "revision": "ec7f0cde6afcc92c0ede",
+    "revision": "3c49568666c590577e92",
     "url": "/static/css/main.b948d220.chunk.css"
   },
   {
@@ -12,12 +12,12 @@ self.__precacheManifest = [
     "url": "/static/js/runtime~main.c5541365.js"
   },
   {
-    "revision": "05df78e9f58202d243672548492c2200",
-    "url": "/static/media/2019-05-28-spring-8.05df78e9.md"
+    "revision": "58e26614187d7693a50d9b86379b9cb0",
+    "url": "/static/media/2019-05-28-summer-1.58e26614.md"
   },
   {
-    "revision": "5894a5d64167f175ad2a",
-    "url": "/static/js/2.64aedd37.chunk.js"
+    "revision": "bffe8442aab556c07190",
+    "url": "/static/js/2.068726d1.chunk.js"
   },
   {
     "revision": "655920f3e5bf4f823d3c66d5b3c233a1",
@@ -112,8 +112,8 @@ self.__precacheManifest = [
     "url": "/static/media/2018-03-31-week-10.e55560ec.md"
   },
   {
-    "revision": "ec7f0cde6afcc92c0ede",
-    "url": "/static/js/main.0c01fdaf.chunk.js"
+    "revision": "3c49568666c590577e92",
+    "url": "/static/js/main.18c0aba9.chunk.js"
   },
   {
     "revision": "7f0a3cddf85b0f178890298f50bcd3e2",
@@ -216,11 +216,15 @@ self.__precacheManifest = [
     "url": "/static/media/2019-02-26-spring-7.446b0d47.md"
   },
   {
-    "revision": "5894a5d64167f175ad2a",
+    "revision": "05df78e9f58202d243672548492c2200",
+    "url": "/static/media/2019-05-28-spring-8.05df78e9.md"
+  },
+  {
+    "revision": "bffe8442aab556c07190",
     "url": "/static/css/2.e6f73149.chunk.css"
   },
   {
-    "revision": "aa31877e1f855d542e8134bce9f3ee2a",
+    "revision": "2392cd015a3dae864799c4df5acae29a",
     "url": "/index.html"
   }
 ];
