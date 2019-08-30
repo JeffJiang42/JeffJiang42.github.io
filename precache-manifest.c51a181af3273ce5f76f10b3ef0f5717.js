@@ -1,19 +1,19 @@
 self.__precacheManifest = [
   {
-    "revision": "7f0a3cddf85b0f178890298f50bcd3e2",
-    "url": "/static/media/2018-04-14-week-12.7f0a3cdd.md"
+    "revision": "9e1602b8d493c6ea6d95",
+    "url": "/static/css/main.9b196c0b.chunk.css"
   },
   {
-    "revision": "7c64b4a724f9482c2d9e",
-    "url": "/static/css/main.b948d220.chunk.css"
+    "revision": "9e1602b8d493c6ea6d95",
+    "url": "/static/js/main.860a8a29.chunk.js"
   },
   {
     "revision": "fdfcfda2d9b1bf31db52",
     "url": "/static/js/runtime~main.c5541365.js"
   },
   {
-    "revision": "33d46869fd94860b2b9539c732e0f837",
-    "url": "/static/media/2019-06-22-summer-2.33d46869.md"
+    "revision": "57b41e35e4dbced57b7d",
+    "url": "/static/css/2.e6f73149.chunk.css"
   },
   {
     "revision": "57b41e35e4dbced57b7d",
@@ -116,8 +116,8 @@ self.__precacheManifest = [
     "url": "/static/media/2018-04-06-week-11.d6876aae.md"
   },
   {
-    "revision": "7c64b4a724f9482c2d9e",
-    "url": "/static/js/main.bcfb4b7c.chunk.js"
+    "revision": "7f0a3cddf85b0f178890298f50bcd3e2",
+    "url": "/static/media/2018-04-14-week-12.7f0a3cdd.md"
   },
   {
     "revision": "b5db5877d014923f57781a9d6868b9da",
@@ -224,11 +224,11 @@ self.__precacheManifest = [
     "url": "/static/media/2019-06-12-summer-1.a46d3336.md"
   },
   {
-    "revision": "57b41e35e4dbced57b7d",
-    "url": "/static/css/2.e6f73149.chunk.css"
+    "revision": "33d46869fd94860b2b9539c732e0f837",
+    "url": "/static/media/2019-06-22-summer-2.33d46869.md"
   },
   {
-    "revision": "3aa17a8039b3ed5da6b99ece353e809f",
+    "revision": "cee9c1fafd92b4d211aff28dbdf0e630",
     "url": "/index.html"
   }
 ];
