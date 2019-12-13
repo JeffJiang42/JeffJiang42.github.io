@@ -10,7 +10,7 @@
     "jquery": "^3.4.1",
     "marked": "^0.6.2",
     "mathjax": "^2.7.5",
-    "npm": "^6.9.0",
+    "npm": "^6.13.4",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-markdown": "^4.0.8",
